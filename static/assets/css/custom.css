@@ -1,0 +1,43 @@
+#mrxs{
+    max-height: 150px;
+}
+#mysvg{
+    transform: translate(-10px, -10px);
+    width: 30px;
+    height: 30px;
+}
+#bajar{
+    transform: translate(30px, -35px);
+}
+/* #tugadi{
+    height: 450px;
+} */
+#spnnr{
+    width: 50px;
+    height: 50px;
+    transform: translate(150px, -80px);
+}
+#mysvg2{
+    transform: translate(-10px, -50px);
+    width: 30px;
+    height: 30px;
+}
+#bajar2{
+    transform: translate(30px, -70px);
+}
+#spnnr2{
+    width: 50px;
+    height: 50px;
+    transform: translate(150px, -115px);
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+/* }
+@keyframes myrotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to{
+        transform:rotate(359deg) ;
+    }
+} */
